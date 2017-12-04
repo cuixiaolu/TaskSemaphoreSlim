@@ -589,7 +589,7 @@
             listViewItem231,
             listViewItem232,
             listViewItem233});
-            this.lvList.Location = new System.Drawing.Point(478, 124);
+            this.lvList.Location = new System.Drawing.Point(86, 115);
             this.lvList.Name = "lvList";
             this.lvList.Size = new System.Drawing.Size(421, 241);
             this.lvList.TabIndex = 7;
